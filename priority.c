@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 # define MAX_VALUE 9999;
-
+                                                           // code is incorrect
 void sort(int* a, int* b, int* pt, int* pro, int n) {
     int j, key1, key2, key3, key4;
     for (int i = 1; i < n; i++) {
